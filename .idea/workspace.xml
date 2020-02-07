@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63dfee13-f43f-42b2-99ee-305142e10825" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Oxo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/Position.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/META-INF/Java_Programming.kotlin_module" beforeDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +41,19 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Oxo (1)">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TriangleTester">
     <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Board" />
       <module name="Java_Programming" />
@@ -57,13 +65,6 @@
       <option name="MAIN_CLASS_NAME" value="GradeConverterTester" />
       <module name="Java_Programming" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Io" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Io" />
-      <module name="Java_Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,27 +89,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriangleTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TriangleTester" />
+      <module name="Java_Programming" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Board" />
+      <item itemvalue="Application.GradeConverterTester" />
+      <item itemvalue="Application.Oxo" />
+      <item itemvalue="Application.Oxo (1)" />
+      <item itemvalue="Application.TriangleTester" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TriangleTester" />
+        <item itemvalue="Application.GradeConverterTester" />
         <item itemvalue="Application.Oxo (1)" />
         <item itemvalue="Application.Oxo" />
         <item itemvalue="Application.Board" />
-        <item itemvalue="Application.Io" />
-        <item itemvalue="Application.GradeConverterTester" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -127,6 +131,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580825585526">
