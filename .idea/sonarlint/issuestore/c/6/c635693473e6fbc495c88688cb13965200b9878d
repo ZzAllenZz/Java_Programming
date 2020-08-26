@@ -1,0 +1,14 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÇ³’ùÿÿÿÿ
+Asquid:S1481"+Remove this unused "method" local variable.(ØÁÓ	
+`squid:CallToDeprecatedMethod-"3Remove this use of "newInstance"; it is deprecated.(ùšüûÿÿÿÿ
+Asquid:S1068N"*Remove this unused "secret" private field.(ÇÓ®Ğ
+lsquid:S1450N"URemove the "secret" field and declare it as a local variable in the relevant methods.(ÇÓ®Ğ
+`squid:CallToDeprecatedMethod"3Remove this use of "newInstance"; it is deprecated.(³€¦°úÿÿÿÿ
+Nsquid:S3518A"7Make sure "b" can't be zero before doing this division.(üÅÂŒ
+jsquid:S00101K"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹ŸÀØûÿÿÿÿ
+=squid:S1170L"!Make this final field static too.(Åä²ùÿÿÿÿ
+Gsquid:S1481"+Remove this unused "object" local variable.(³€¦°úÿÿÿÿ
+@squid:S1481A")Remove this unused "dasd" local variable.(üÅÂŒ
+{"squid:ClassVariableVisibilityCheckM"MMake d a static final constant or non-public and provide accessors if needed.(êá¿ê
+¨%squid:RedundantThrowsDeclarationCheck	"wRemove the declaration of thrown exception 'java.lang.NoSuchFieldException', as it cannot be thrown from method's body.(¬ëî”

@@ -1,0 +1,9 @@
+
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( ­ûî
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—ƒæ†üÿÿÿÿ
+_squid:S2276*"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ
+]squid:S2142+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ
+?squid:S1148,"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

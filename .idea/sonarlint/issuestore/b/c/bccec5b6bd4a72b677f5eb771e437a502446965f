@@ -1,0 +1,9 @@
+
+Xsquid:S4719":Replace charset name argument with StandardCharsets.UTF_16(‹ΫΏ8Δ¨ο»».
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Έ”ϊÿÿÿÿ8Δ¨ο»».
+\squid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(©Έ”ϊÿÿÿÿ8Δ¨ο»».
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ΫΏ8Δ¨ο»».
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ήπϊÿÿÿÿ8Δ¨ο»».
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ύς8Ϊ•Ό».
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(όÿÿÿÿ8Δ¨ο»».
+asquid:S4719">Replace charset name argument with StandardCharsets.ISO_8859_1(όÿÿÿÿ8Δ¨ο»».

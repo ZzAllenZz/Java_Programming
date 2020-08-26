@@ -1,0 +1,7 @@
+
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8î¶´¾.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÇ°Œûÿÿÿÿ
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8î¶´¾.
+Jsquid:S1602",Remove useless curly braces around statement(ıñî©8Òò¯´¾.
+gsquid:S2147"DCombine this catch with the one at line 21, which has the same body.(†«”Ïüÿÿÿÿ8î¶´¾.
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8î¶´¾.

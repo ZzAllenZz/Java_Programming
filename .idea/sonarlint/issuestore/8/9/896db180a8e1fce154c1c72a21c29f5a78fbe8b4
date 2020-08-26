@@ -1,0 +1,6 @@
+
+~"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+}"squid:ClassVariableVisibilityCheck"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+Dsquid:S1604%"(Make this anonymous inner class a lambda(ÒàÆÏúÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì”ÂÑ
+Dsquid:S1604"(Make this anonymous inner class a lambda(ÒàÆÏúÿÿÿÿ

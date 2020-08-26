@@ -1,0 +1,7 @@
+
+|squid:S3012,"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(½ÁÜŠüÿÿÿÿ8Û‰¦Ù¸.
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8šÓ×Ø¸.
+jsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦™ØÆÿÿÿÿÿ
+osquid:S1223'"LRename this method to prevent any misunderstanding or make it a constructor.(Þ¤‚­úÿÿÿÿ8Û‰—Ø¸.
+‹ squid:ForLoopCounterChangedCheckA"XRefactor the code in order to not assign to this loop counter from within the loop body.(è²õó8ÅüÀ×¸.
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8‰øÄØ¸.

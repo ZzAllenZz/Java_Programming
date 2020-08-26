@@ -1,3 +1,4 @@
+package week1;
 class GradeConverterTester
 {
   static void testDigitConvertion(GradeConverter converter)

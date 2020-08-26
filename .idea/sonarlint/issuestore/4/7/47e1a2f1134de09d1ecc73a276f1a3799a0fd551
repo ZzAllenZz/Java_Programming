@@ -1,0 +1,5 @@
+
+‹ squid:ForLoopCounterChangedCheck:"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8­«ú°.
+ squid:ForLoopCounterChangedCheck,"XRefactor the code in order to not assign to this loop counter from within the loop body.(³²Æùýÿÿÿÿ8×ºúö°.
+Csquid:S2129" Remove this "String" constructor(¹ú»êýÿÿÿÿ8žƒ±ö°.
+>squid:S2129" Remove this "String" constructor(›Ó‚±8žƒ±ö°.

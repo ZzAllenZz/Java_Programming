@@ -1,0 +1,7 @@
+
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´Ê÷¬8ƒ“õÒÁ.
+W"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(“œ®µ8ƒ“õÒÁ.
+Bsquid:S16596"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ8ƒ“õÒÁ.
+bsquid:S2259D"DA "NullPointerException" could be thrown; "second" is nullable here.(Ì”™‰8ƒ“õÒÁ.
+Bsquid:S2097B"Add a type test to this method.(İ¢êÍıÿÿÿÿ8ƒ“õÒÁ.
+_squid:S1126D"AReplace this if-then-else statement by a single return statement.(Ì”™‰8ƒ“õÒÁ.

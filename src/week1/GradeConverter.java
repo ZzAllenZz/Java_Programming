@@ -1,3 +1,5 @@
+package week1;
+
 import java.io.*;
 
 // Class to convert unit marks to grades

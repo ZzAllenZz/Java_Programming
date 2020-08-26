@@ -1,0 +1,7 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÇ³’ùÿÿÿÿ
+bsquid:CallToDeprecatedMethod!"3Remove this use of "newInstance"; it is deprecated.(¢›Æ8Áµµˆ.
+gsquid:CallToDeprecatedMethod4"3Remove this use of "newInstance"; it is deprecated.(½£÷Öşÿÿÿÿ8Áµµˆ.
+Hsquid:S1172K"*Remove this unused method parameter "obj".(ĞÁñß8õ¶ƒˆ.
+Hsquid:S1172G"*Remove this unused method parameter "obj".(Ë™«’8õ¶ƒˆ.
+Lsquid:S1481.")Remove this unused "intt" local variable.(—“Éıÿÿÿÿ8Áµµˆ.

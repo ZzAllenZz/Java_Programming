@@ -1,0 +1,6 @@
+
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘8×˜ç‰·.
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ê‰°Î8æž†Š·.
+Qsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÖÉŽM8×˜ç‰·.
+nsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(¢ß‡¢ÿÿÿÿÿ8æ¿ù‰·.
+hsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(åî½r8æ¿ù‰·.

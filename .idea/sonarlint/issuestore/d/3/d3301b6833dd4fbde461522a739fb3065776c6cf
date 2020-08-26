@@ -1,0 +1,13 @@
+
+>squid:S2129"!Remove this "Integer" constructor(Ãå8¸ãÙ«¾.
+csquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(”ëâËÿÿÿÿÿ8¸ãÙ«¾.
+]squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(Ãå8¸ãÙ«¾.
+Dsquid:S2129"!Remove this "Integer" constructor(”ëâËÿÿÿÿÿ8¸ãÙ«¾.
+‚squid:UselessImportCheck"RRemove this unused import 'java.util.concurrent.locks.AbstractQueuedSynchronizer'.(â©â¶øÿÿÿÿ8ˆ·ª­¾.
+\squid:S4973"9Use the "equals" method if value comparison was intended.(åßªóùÿÿÿÿ8¸ãÙ«¾.
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(ïš€28¸ãÙ«¾.
+\squid:S4973"9Use the "equals" method if value comparison was intended.(¥¿’øÿÿÿÿ8¸ãÙ«¾.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬……óúÿÿÿÿ
+?squid:S2129"!Remove this "Integer" constructor(íÔ’«8¸ãÙ«¾.
+^squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(íÔ’«8¸ãÙ«¾.
+Lsquid:S1481")Remove this unused "lock" local variable.(Èş³ÿÿÿÿÿ8ı¾­¾.

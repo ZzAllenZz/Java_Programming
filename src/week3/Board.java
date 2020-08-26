@@ -1,6 +1,6 @@
 
 
-class Board {
+public class Board {
     int length = 4;
     String[][] table = new String[length][length];
     public Board(){

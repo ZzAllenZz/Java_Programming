@@ -1,0 +1,5 @@
+
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8™Öç…’.
+‰"squid:ClassVariableVisibilityCheck*"OMake len a static final constant or non-public and provide accessors if needed.(ÊÊÒ´ûÿÿÿÿ8Ê¥¢ß‘.
+Œ"squid:ClassVariableVisibilityCheck+"RMake weight a static final constant or non-public and provide accessors if needed.(©ì¹ûÿÿÿÿ8Ê¥¢ß‘.
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒÒÆ²ıÿÿÿÿ8êšàß‘.

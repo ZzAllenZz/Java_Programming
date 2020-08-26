@@ -1,0 +1,17 @@
+
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ıĞÙµ¾.
+gsquid:S21470"DCombine this catch with the one at line 46, which has the same body.(†«”Ïüÿÿÿÿ8ûÌ–µ¾.
+]squid:S1161Q":Add the "@Override" annotation above this method signature(‰ó‹ıÿÿÿÿ8æŒĞ´¾.
+Fsquid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÌ–µ¾.
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ8ûÌ–µ¾.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬Ä”ûÿÿÿÿ8ßúŸĞ¿.
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ë†‹µ¾.
+gsquid:S2147"DCombine this catch with the one at line 25, which has the same body.(†«”Ïüÿÿÿÿ8Ë†‹µ¾.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÇ°Œûÿÿÿÿ
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ë†‹µ¾.
+dsquid:S2142."FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ûÌ–µ¾.
+]squid:S1161M":Add the "@Override" annotation above this method signature(€’øûÿÿÿÿ8–ÂÌ´¾.
+]squid:S1161Y":Add the "@Override" annotation above this method signature(–º´Ğıÿÿÿÿ8·ÂÕ´¾.
+Isquid:S1481"&Remove this unused "b" local variable.(›´üÒıÿÿÿÿ8ßúŸĞ¿.
+Fsquid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÌ–µ¾.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ë†‹µ¾.

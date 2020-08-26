@@ -1,0 +1,7 @@
+
+qsquid:S2975
+"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ø¬Åç8‚Å…™‡.
+Xsquid:S1161
+":Add the "@Override" annotation above this method signature(ø¬Åç8ÌŽˆ™‡.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´«û»8ßö˜‡.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íùÎ£

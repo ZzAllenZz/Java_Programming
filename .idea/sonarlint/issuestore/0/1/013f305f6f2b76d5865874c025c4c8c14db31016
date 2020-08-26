@@ -1,0 +1,10 @@
+
+T
+squid:S106Q"9Replace this use of System.out or System.err by a logger.( °úïøÿÿÿÿ
+N
+squid:S106T"9Replace this use of System.out or System.err by a logger.(âßX
+_squid:S2583H"CChange this condition so that it does not always evaluate to "true"(ıœ®üÿÿÿÿ
+bsquid:S1192"FDefine a constant instead of duplicating this literal "Merit" 3 times.(¨Õ±øÿÿÿÿ
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒâÃù8ÓÊâ—‡.
+csquid:S1192"LDefine a constant instead of duplicating this literal "Distinction" 3 times.(ÂŠ‚ó
+^$squid:AssignmentInSubExpressionCheckG".Extract the assignment out of this expression.(‚´ç–

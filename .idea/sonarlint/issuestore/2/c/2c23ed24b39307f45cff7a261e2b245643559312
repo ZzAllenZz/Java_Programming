@@ -1,0 +1,7 @@
+
+qsquid:S2975
+"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(â´üÙ8©‘…™‡.
+‚"squid:ClassVariableVisibilityCheck"MMake a a static final constant or non-public and provide accessors if needed.(‚ÈÂÉ8Ï®î—‡.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âáé«
+‚"squid:ClassVariableVisibilityCheck"MMake b a static final constant or non-public and provide accessors if needed.(“ú»Á8áÕî—‡.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Õ¢îúÿÿÿÿ8ŒÜõ—‡.

@@ -1,0 +1,8 @@
+
+Xsquid:S1126("AReplace this if-then-else statement by a single return statement.(¿Ï÷‚
+Xsquid:S1126w"AReplace this if-then-else statement by a single return statement.(ëπ√ø
+bsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(®¸Çî
+]squid:S1126E"AReplace this if-then-else statement by a single return statement.(ä˙ëÂ¯ˇˇˇˇ
+[squid:HiddenFieldCheck0"9Rename "length" which hides the field declared at line 4.(Ù«¬Ô
+]squid:S1126="AReplace this if-then-else statement by a single return statement.(˜Ÿ∫¶˘ˇˇˇˇ
+Ysquid:S1126å"AReplace this if-then-else statement by a single return statement.(Ô‹ŒÅ

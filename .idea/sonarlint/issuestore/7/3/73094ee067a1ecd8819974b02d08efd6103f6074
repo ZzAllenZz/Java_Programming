@@ -1,0 +1,15 @@
+
+squid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ8ôÌÀ’ˆ.
+Usquid:S2589G"7Remove this expression which always evaluates to "true"(Ó¤»8åÏ«“ˆ.
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(€¢³¥8àÒ•“ˆ.
+Vsquid:S2589A"8Remove this expression which always evaluates to "false"(åàõ÷8åÏ«“ˆ.
+Usquid:S2589P"7Remove this expression which always evaluates to "true"(ê‚Àÿ8åÏ«“ˆ.
+gsquid:S2583N"DChange this condition so that it does not always evaluate to "false"(Ó‘­Áûÿÿÿÿ8åÏ«“ˆ.
+Vsquid:S2589O"8Remove this expression which always evaluates to "false"(Æ¡ôü8åÏ«“ˆ.
+Usquid:S2589B"7Remove this expression which always evaluates to "true"(£äÇÆ8åÏ«“ˆ.
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(¬ÙÅŠ8¸°Ïˆ.
+Zsquid:S25899"7Remove this expression which always evaluates to "true"(²±ÒÙüÿÿÿÿ8åÏ«“ˆ.
+hsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(…ÊùX8àÒ•“ˆ.
+[squid:S2589F"8Remove this expression which always evaluates to "false"(ÛìÅ¨ÿÿÿÿÿ8åÏ«“ˆ.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÇ³’ùÿÿÿÿ
+Vsquid:S25898"8Remove this expression which always evaluates to "false"(—Úä8åÏ«“ˆ.

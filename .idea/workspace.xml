@@ -2,10 +2,132 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63dfee13-f43f-42b2-99ee-305142e10825" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b25e3410c633ee3c9e92e8cfd8499593fd5676c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b3d385b5983fc98fb1706520eca484b97bf3ea66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc343d9e8d257253e671fe0de298e0fe4f117af8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eedf065c00569ae950560c6d73cd43d28474af17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef1052453a6ede556fd43bc8d9af10b8db8018d2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheet4_graph_traverse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/BloomFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/BloomFilter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/FullPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SkipList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/TopK_quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/binarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/topFrequencyK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/topFrequencyK2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/topK_heapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Ai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Ai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Ai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Main_Shopee1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Main_alibaba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nio/BlockingNIO_Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nio/BlockingNIO_Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nio/BufferTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nio/ChannelTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nio/NonBlockingNIO_Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nio/NonBlockingNIO_Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/DistributedLockDemos/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/IntegerRelated/NewInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/MetaspaceOOM/OOMMetaspace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Overload_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Override_Private.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ProxyStudy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ProxyStudy/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ProxyStudy/LogHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ProxyStudy/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ProxyStudy/UserManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ProxyStudy/UserManagerImplProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/SerializableRelated/SerializableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/StringAndStringBuffer/TestIntern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/StringAndStringBuffer/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ThreadCommunication/Print1_100_withLockSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ThreadCommunication/TwoThreadPrint1_100_withLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ThreadCommunication/TwoThreadPrint1_100_withSupportPark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ThreadCommunication/TwoThreadsPrint1_100_WithoutLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ThreadPoolDemo/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ThreadPoolDemo/FixedThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/VolatileRelated/AtomicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/constantPool/IntegerPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/singleton/Demo1_hungry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/singleton/Demo2_hungry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/singleton/Demo3_lazy_unsafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/singleton/Demo4_lazy_safe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/singleton/Demo5_lazy_safe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/singleton/Demo6_doubleCheck_safe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/singleton/Demo7_interClass_safe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/singleton/Demo8_enum_good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/singleton/Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/synchronizeDemos/AQSDemos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/synchronizeDemos/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/synchronizeDemos/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/synchronizeDemos/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/GroupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/Child1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/CloneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Child2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Clone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/CloneExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/GenericTestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Id.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Tuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/MultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Plalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/narnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/META-INF/Java_Programming.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/GradeConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/GradeConverterTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/Test/com/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/Test/com/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/Test/com/Oxo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/Test/com/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/com/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/com/Display.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/com/Oxo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/com/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/com/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/GradeConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/GradeConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/GradeConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/GradeConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/GradeConverterTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/GradeConverterTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week3/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3/Board.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +138,10 @@
       <list>
         <option value="module-info" />
         <option value="package-info" />
+        <option value="Kotlin Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,6 +159,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -41,40 +168,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.TriangleTester">
-    <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Board" />
-      <module name="Java_Programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GradeConverterTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GradeConverterTester" />
-      <module name="Java_Programming" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Oxo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.com.Oxo" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.Main" />
       <module name="Java_Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.com.*" />
+          <option name="PATTERN" value="exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,37 +182,116 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Oxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oxo" />
+    <configuration name="NonBlockingNIO_Server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.NonBlockingNIO_Server" />
       <module name="Java_Programming" />
+      <option name="VM_PARAMETERS" value="-Xlog:gc*" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TriangleTester" />
+    <configuration name="Print1_100_withLockSupport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ThreadCommunication.Print1_100_withLockSupport" />
       <module name="Java_Programming" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.ThreadCommunication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoThreadPrint1_100_withLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ThreadCommunication.TwoThreadPrint1_100_withLock" />
+      <module name="Java_Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.ThreadCommunication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoThreadPrint1_100_withSupportPark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ThreadCommunication.TwoThreadPrint1_100_withSupportPark" />
+      <module name="Java_Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.ThreadCommunication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoThreadsPrint1_100_WithoutLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ThreadCommunication.TwoThreadsPrint1_100_WithoutLock" />
+      <module name="Java_Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.ThreadCommunication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topFrequencyK2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.topFrequencyK2" />
+      <module name="Java_Programming" />
+      <option name="VM_PARAMETERS" value="-Xlog:gc*" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Board" />
-      <item itemvalue="Application.GradeConverterTester" />
-      <item itemvalue="Application.Oxo" />
-      <item itemvalue="Application.Oxo (1)" />
-      <item itemvalue="Application.TriangleTester" />
+      <item itemvalue="Application.topFrequencyK2" />
+      <item itemvalue="Application.NonBlockingNIO_Server" />
+      <item itemvalue="Application.TwoThreadsPrint1_100_WithoutLock" />
+      <item itemvalue="Application.TwoThreadPrint1_100_withLock" />
+      <item itemvalue="Application.TwoThreadPrint1_100_withSupportPark" />
+      <item itemvalue="Application.Print1_100_withLockSupport" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TriangleTester" />
-        <item itemvalue="Application.GradeConverterTester" />
-        <item itemvalue="Application.Oxo (1)" />
-        <item itemvalue="Application.Oxo" />
-        <item itemvalue="Application.Board" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Print1_100_withLockSupport" />
+        <item itemvalue="Application.TwoThreadPrint1_100_withSupportPark" />
+        <item itemvalue="Application.TwoThreadsPrint1_100_WithoutLock" />
+        <item itemvalue="Application.TwoThreadPrint1_100_withLock" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -126,6 +305,93 @@
       <updated>1580484199030</updated>
       <workItem from="1580825409765" duration="810000" />
       <workItem from="1580905151735" duration="13478000" />
+      <workItem from="1581169583044" duration="102000" />
+      <workItem from="1582293348826" duration="9313000" />
+      <workItem from="1582474102488" duration="5653000" />
+      <workItem from="1582483559055" duration="3223000" />
+      <workItem from="1582585917479" duration="1245000" />
+      <workItem from="1582723555316" duration="10228000" />
+      <workItem from="1582744995505" duration="8051000" />
+      <workItem from="1582807462424" duration="667000" />
+      <workItem from="1582838983408" duration="34000" />
+      <workItem from="1584663001131" duration="661000" />
+      <workItem from="1584730890137" duration="1171000" />
+      <workItem from="1584753517327" duration="602000" />
+      <workItem from="1585186645083" duration="7662000" />
+      <workItem from="1585302498669" duration="5900000" />
+      <workItem from="1585359773491" duration="2287000" />
+      <workItem from="1585391979831" duration="3708000" />
+      <workItem from="1585538005416" duration="3760000" />
+      <workItem from="1585809792909" duration="1073000" />
+      <workItem from="1586175320275" duration="396000" />
+      <workItem from="1586179502035" duration="5000" />
+      <workItem from="1586487058283" duration="619000" />
+      <workItem from="1589281526806" duration="680000" />
+      <workItem from="1592713174879" duration="2794000" />
+      <workItem from="1593501259787" duration="40000" />
+      <workItem from="1593680558469" duration="2631000" />
+      <workItem from="1593688016160" duration="6559000" />
+      <workItem from="1593935756917" duration="5133000" />
+      <workItem from="1593949072972" duration="605000" />
+      <workItem from="1594017746500" duration="5031000" />
+      <workItem from="1594115075298" duration="1680000" />
+      <workItem from="1595241040943" duration="5406000" />
+      <workItem from="1595298634638" duration="1433000" />
+      <workItem from="1595326769303" duration="7000000" />
+      <workItem from="1595398537414" duration="44000" />
+      <workItem from="1595642634987" duration="2044000" />
+      <workItem from="1595658644074" duration="5840000" />
+      <workItem from="1595751652111" duration="4722000" />
+      <workItem from="1595763037250" duration="8226000" />
+      <workItem from="1595816950326" duration="642000" />
+      <workItem from="1595831835982" duration="7182000" />
+      <workItem from="1595903858981" duration="1902000" />
+      <workItem from="1596072109891" duration="17000" />
+      <workItem from="1596101671213" duration="97000" />
+      <workItem from="1596182868642" duration="1035000" />
+      <workItem from="1596364565322" duration="9207000" />
+      <workItem from="1596419431586" duration="619000" />
+      <workItem from="1596510658131" duration="1968000" />
+      <workItem from="1596524433286" duration="5113000" />
+      <workItem from="1596539247413" duration="603000" />
+      <workItem from="1596540451857" duration="2042000" />
+      <workItem from="1596542560671" duration="4697000" />
+      <workItem from="1596699359926" duration="7973000" />
+      <workItem from="1596721337269" duration="818000" />
+      <workItem from="1596765045840" duration="622000" />
+      <workItem from="1596853336922" duration="2766000" />
+      <workItem from="1596856878466" duration="796000" />
+      <workItem from="1596860417620" duration="753000" />
+      <workItem from="1596863368184" duration="606000" />
+      <workItem from="1596865233417" duration="1897000" />
+      <workItem from="1596867592206" duration="8322000" />
+      <workItem from="1596888601286" duration="58000" />
+      <workItem from="1596970362985" duration="1008000" />
+      <workItem from="1596982439838" duration="384000" />
+      <workItem from="1597111219611" duration="1380000" />
+      <workItem from="1597123746262" duration="3831000" />
+      <workItem from="1597148959964" duration="61000" />
+      <workItem from="1597152663756" duration="1141000" />
+      <workItem from="1597237604207" duration="4958000" />
+      <workItem from="1597282350573" duration="3996000" />
+      <workItem from="1597299110116" duration="7223000" />
+      <workItem from="1597315469591" duration="7355000" />
+      <workItem from="1597372330744" duration="7424000" />
+      <workItem from="1597487834370" duration="4586000" />
+      <workItem from="1597547340491" duration="595000" />
+      <workItem from="1597560185360" duration="8118000" />
+      <workItem from="1597578594245" duration="5212000" />
+      <workItem from="1597625232211" duration="3920000" />
+      <workItem from="1597717148849" duration="764000" />
+      <workItem from="1597728246324" duration="1267000" />
+      <workItem from="1598006313719" duration="6001000" />
+      <workItem from="1598079114882" duration="10140000" />
+      <workItem from="1598165072263" duration="5277000" />
+      <workItem from="1598240615108" duration="360000" />
+      <workItem from="1598254964442" duration="8588000" />
+      <workItem from="1598320804855" duration="597000" />
+      <workItem from="1598337902507" duration="3748000" />
+      <workItem from="1598409248202" duration="1369000" />
     </task>
     <servers />
   </component>
@@ -137,40 +403,140 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580825585526">
+    <state x="653" y="189" key="#NonBlockingNIO_Server" timestamp="1597585835583">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580825585526" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580919276027">
+    <state x="653" y="189" key="#NonBlockingNIO_Server/0.0.1920.1040@0.0.1920.1040" timestamp="1597585835583" />
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593935924331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580919276027" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580919276026">
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593935924331" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1597374793368">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580919276026" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580919276026">
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597374793368" />
+    <state x="714" y="91" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597300732861">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580919276026" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580919276026">
+    <state x="714" y="91" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597300732861" />
+    <state x="653" y="189" key="#topFrequencyK2" timestamp="1597585793160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580919276026" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580905269693">
+    <state x="653" y="189" key="#topFrequencyK2/0.0.1920.1040@0.0.1920.1040" timestamp="1597585793160" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1595398582540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580905269693" />
-    <state x="623" y="225" key="search.everywhere.popup" timestamp="1580827555108">
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595398582540" />
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom" timestamp="1598409735483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580827555108" />
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598409735483" />
+    <state width="1877" height="312" key="GridCell.Tab.0.center" timestamp="1598409735483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598409735483" />
+    <state width="1877" height="312" key="GridCell.Tab.0.left" timestamp="1598409735483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598409735483" />
+    <state width="1877" height="312" key="GridCell.Tab.0.right" timestamp="1598409735483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598409735483" />
+    <state width="1877" height="320" key="GridCell.Tab.1.bottom" timestamp="1596860907224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596860907224" />
+    <state width="1877" height="320" key="GridCell.Tab.1.center" timestamp="1596860907224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="320" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596860907224" />
+    <state width="1877" height="320" key="GridCell.Tab.1.left" timestamp="1596860907223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="320" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596860907223" />
+    <state width="1877" height="320" key="GridCell.Tab.1.right" timestamp="1596860907224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="320" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596860907224" />
+    <state x="1170" y="288" key="extract.method.dialog" timestamp="1596368747588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="288" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596368747588" />
+    <state x="567" y="220" width="786" height="600" key="find.popup" timestamp="1597563626311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="567" y="220" width="786" height="600" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597563626311" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1598256148891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598256148891" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598170678292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598170678292" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/week9/Test.java</url>
+          <line>3</line>
+          <properties class="week9.Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week11/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week11/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week11/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week11/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week11/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week11/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week11/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week11/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

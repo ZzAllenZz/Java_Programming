@@ -1,0 +1,51 @@
+
+U
+squid:S106-"9Replace this use of System.out or System.err by a logger.(²¾ç8§Ší—‡.
+U
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ã™*8 ¬øË‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹½Ğæÿÿÿÿÿ8½ˆ‡Å†.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿¸ğûıÿÿÿÿ8§¼ÓÄ†.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Åìœ±ùÿÿÿÿ8Åƒ—‡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈĞõ8÷ĞÂÄ†.
+Hsquid:S1068"*Remove this unused "number" private field.(òù´Ê8ÔòÓ–‡.
+Lsquid:S14812".Remove this unused "example21" local variable.(èÜåñ8Øëù˜‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8³«Ê–‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(šĞ—Çşÿÿÿÿ8ê­Ì–‡.
+Fsquid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”œ„™‡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù“©Œ8ÃÄ†.
+]squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(ÃÕêW8ı‹Æ›‡.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÕêW8²—Ç›‡.
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(¤Ú¶ûÿÿÿÿ8¶ÆÙ–‡.
+asquid:S2133<"CRemove this object instantiation and use "ArrayList.class" instead.(ø†É®8í¤ùË‡.
+|squid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ä¬Şıÿÿÿÿ8¡÷Ë‡.
+U
+squid:S106/"9Replace this use of System.out or System.err by a logger.(İ¥£k8‚‹’˜‡.
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(æó›­ûÿÿÿÿ8å¯üË‡.
+[
+squid:S106>"9Replace this use of System.out or System.err by a logger.(æÏ¸ıÿÿÿÿ8¡÷Ë‡.
+Fsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³ê„™‡.
+>squid:S2129"!Remove this "Integer" constructor(ÃÕêW8ı‹Æ›‡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(áÂª8¶ˆĞ–‡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àİ¯Ï8½ˆ‡Å†.
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(÷ÚÚ‰8»”„˜‡.
+wsquid:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø†É®8¡÷Ë‡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(±ÁÉ¡8óÙ‡Å†.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íùÎ£
+`squid:S18544"=Remove this useless assignment to local variable "example21".(“Õ ˜şÿÿÿÿ8Øëù˜‡.
+asquid:S2259/"DA "NullPointerException" could be thrown; "clone1" is nullable here.(İ¥£k8‚‹’˜‡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(òïËà8»ã½–‡.

@@ -1,0 +1,7 @@
+
+~squid:S001151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡‡Úúÿÿÿÿ8¸èıˆ.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÇ³’ùÿÿÿÿ
+~squid:S00115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë§èŠşÿÿÿÿ8¸èıˆ.
+isquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(–œÈŒ8¶³–ˆ.
+Hsquid:S1068"%Remove this unused "y" private field.(Ê€ÄŒøÿÿÿÿ8Ÿ¿éˆ.
+@squid:S1214$""Move constants to a class or enum.(†ˆ×Ø8¸èıˆ.

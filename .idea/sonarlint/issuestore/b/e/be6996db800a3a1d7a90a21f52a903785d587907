@@ -1,0 +1,8 @@
+
+Fsquid:S1125")Remove the literal "false" boolean value.(â´…%8²„»ß¶.
+9squid:S3626("Remove this redundant jump.(ÉŠ©ƒ8Á—šà¶.
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(é¹ğ8Æİã¶.
+Fsquid:S1125")Remove the literal "false" boolean value.(›Á€8²„»ß¶.
+Lsquid:S1125")Remove the literal "false" boolean value.(²Òı ûÿÿÿÿ8Òí²ß¶.
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 75 to the 15 allowed.(Çµí‘8â‚¿ß¶.
+Gsquid:S11251")Remove the literal "false" boolean value.(ÜËï8·†Îß¶.

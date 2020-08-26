@@ -1,0 +1,9 @@
+
+>squid:S2129" Remove this "String" constructor(ž§´€8Øþ µ¿.
+Dsquid:S1481"&Remove this unused "s" local variable.(ž§´€8Øþ µ¿.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“¹âÉúÿÿÿÿ8éÛ˜µ¿.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½—Äœþÿÿÿÿ8éÛ˜µ¿.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È˜óñúÿÿÿÿ
+isquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(£Ë¥Ã8éÛ˜µ¿.
+Wsquid:S4973"9Use the "equals" method if value comparison was intended.(¡¼»‰8åÂ˜µ¿.

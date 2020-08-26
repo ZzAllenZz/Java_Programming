@@ -1,0 +1,16 @@
+
+lsquid:S2095"IUse try-with-resources or close this "FileChannel" in a "finally" clause.(Ôòè³şÿÿÿÿ8ÎµòÅ».
+jsquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8Ÿ‚şÄ».
+gsquid:S2095"IUse try-with-resources or close this "FileChannel" in a "finally" clause.(„®ôî8ÎµòÅ».
+qsquid:ModifiersOrderCheck%"EReorder the modifiers to comply with the Java Language Specification.(âôí8ıÍƒÅ».
+lsquid:S2095("NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(•8¼ìöÄ».
+gsquid:S2095:"IUse try-with-resources or close this "FileChannel" in a "finally" clause.(æÆ²8ÿÔÖÅ».
+lsquid:S20959"IUse try-with-resources or close this "FileChannel" in a "finally" clause.(Ôòè³şÿÿÿÿ8Ä«ÒÅ».
+hsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ªäÄ8Ñí‡Å».
+ksquid:S2095'"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(õ¾Å8ÉëôÄ».
+nsquid:S1192"PDefine a constant instead of duplicating this literal "./src/nio/2.jpg" 3 times.(„®ôî8ÎµòÅ».
+ssquid:S1192"PDefine a constant instead of duplicating this literal "./src/nio/1.jpg" 3 times.(Ôòè³şÿÿÿÿ8ÎµòÅ».
+`squid:UselessImportCheck
+"5Remove this unused import 'java.nio.file.OpenOption'.(ï»ÁÆ8ÎµòÅ».
+qsquid:ModifiersOrderCheck8"EReorder the modifiers to comply with the Java Language Specification.(µ£òÇ8æÆÇÅ».
+isquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(¥Ôº›8¥èáÅ».

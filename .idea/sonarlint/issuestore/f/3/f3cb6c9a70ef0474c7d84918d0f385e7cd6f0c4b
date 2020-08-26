@@ -1,0 +1,5 @@
+
+lsquid:S2095"IUse try-with-resources or close this "FileChannel" in a "finally" clause.(Ôòè³þÿÿÿÿ8ò’ôÉ».
+qsquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿‘òÌýÿÿÿÿ8Òü²Ê».
+nsquid:S2095"KUse try-with-resources or close this "SocketChannel" in a "finally" clause.(Î—‰¦þÿÿÿÿ8™¹ïÉ».

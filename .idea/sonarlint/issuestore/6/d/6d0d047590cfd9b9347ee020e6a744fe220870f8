@@ -1,0 +1,18 @@
+
+Wsquid:S4973"9Use the "equals" method if value comparison was intended.(§êşÁ8Ú®åŞ¾.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®æÊ“8˜òÚŞ¾.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜Š÷­8¶ôãŞ¾.
+>squid:S2129" Remove this "String" constructor(öã† 8ùúæŞ¾.
+hsquid:S1192"JDefine a constant instead of duplicating this literal "SEUCalvin" 4 times.(•Şú¿8ì»ìŞ¾.
+Wsquid:S4973""9Use the "equals" method if value comparison was intended.(äæ»ğ8ÛíèŞ¾.
+Wsquid:S4973#"9Use the "equals" method if value comparison was intended.(ÿöº‡8Ã‚êŞ¾.
+Wsquid:S4973!"9Use the "equals" method if value comparison was intended.(’Ëú‹8¼ÏçŞ¾.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶İôˆ
+>squid:S2129" Remove this "String" constructor(öã† 8ùúæŞ¾.
+nsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(¾›™ôúÿÿÿÿ8˜òÚŞ¾.
+\squid:S4973 "9Use the "equals" method if value comparison was intended.(Æ’ˆÖÿÿÿÿÿ8Ú®åŞ¾.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾›™ôúÿÿÿÿ8‰ŞŞ¾.
+isquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(˜Š÷­8ëÀãŞ¾.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®æÊ“8‰ŞŞ¾.
+Wsquid:S4973$"9Use the "equals" method if value comparison was intended.(½¢¬–8ÙÜìŞ¾.

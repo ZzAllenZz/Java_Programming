@@ -1,0 +1,5 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆÁØÕúÿÿÿÿ
+zsquid:S2177"WRename this method; there is a "private" method in the parent class with the same name.(…£ý‹ùÿÿÿÿ8–ç£à½.
+Nsquid:S1481"+Remove this unused "father" local variable.(˜À¬ÿÿÿÿÿÿ8ÉÍ¨à½.
+Hsquid:S1068"%Remove this unused "a" private field.(†§ìßÿÿÿÿÿ8¸ß°à½.

@@ -1,0 +1,7 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú½™ùÿÿÿÿ
+’"squid:ClassVariableVisibilityCheck8"XMake unparkThread a static final constant or non-public and provide accessors if needed.(­ìÏŒüÿÿÿÿ8ªÿ¯şÁ.
+Tsquid:S2696("6Make the enclosing method "static" or remove this set.(Èë8ªÿ¯şÁ.
+’"squid:ClassVariableVisibilityCheckP"XMake unparkThread a static final constant or non-public and provide accessors if needed.(­ìÏŒüÿÿÿÿ8ªÿ¯şÁ.
+’"squid:ClassVariableVisibilityCheck$"XMake unparkThread a static final constant or non-public and provide accessors if needed.(­ìÏŒüÿÿÿÿ8ªÿ¯şÁ.
+qsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŠæñŒşÿÿÿÿ8ì’²şÁ.
